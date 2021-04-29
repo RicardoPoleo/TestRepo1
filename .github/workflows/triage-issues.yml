@@ -9,6 +9,7 @@ on:
     types:
       - reopened
       - opened
+      - new
 
 jobs:
   triage_issues:
