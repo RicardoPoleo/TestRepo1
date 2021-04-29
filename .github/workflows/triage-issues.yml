@@ -12,7 +12,7 @@ on:
 
 jobs:
   triage_issues:
-    if: github.repository == 'RicardoPoleo/TestRepo2'
+#    if: github.repository == 'RicardoPoleo/TestRepo2'
     runs-on: ubuntu-latest
 
     steps:
